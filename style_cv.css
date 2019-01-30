@@ -1,0 +1,100 @@
+h1 {
+	color:blue;
+	text-align:center;
+}
+
+.page{
+	font-family: Times;
+}
+
+.en_tete_D {
+	height: 150px;
+	width: 380px;
+	border-left: solid 2px orange;
+	float: left;
+
+	padding-left: 15px;
+}
+.en_tete_G {
+	height: 150px;
+	width: 300px;
+	border-left: solid 2px orange;
+	float: left;
+
+	padding-left: 15px;	
+}
+
+.txt_entete{
+	color: black;
+	font-size: 14px;
+	/*background: url("entt_ph.jpg");*/
+}
+.titre_cv{
+	font-weight: bold;
+    font-size: 20px;
+    text-align:center;
+}
+.education
+{
+	/*background-color: gray;*/
+}
+.photo{
+	/*margin: 10px auto;*/
+	float: right;
+
+}
+.titre_unite{
+	margin-top: 30px;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px;
+	text-align:center;
+	border: solid 2px orange;
+}
+
+
+.ph_entete{
+	/*background-image: url('texture_elec.jpg');*/
+	background-position: top;
+	height: 150px;	
+	
+}
+
+.annee{
+	font-weight: bold;
+	margin-left: 15px;
+	float: left;
+	border-bottom: solid 2px black;
+}
+
+.unite{
+	margin-left: 90px;
+	/*padding-left: 130px;*/
+	/*float: left;*/
+	border-bottom: solid 2px white;
+	border-left: solid 1px gray;
+	padding-left: 10px;
+
+}
+.nom_etabs{
+	font-weight: bold;
+	float: left;
+	margin-left: 10px
+}
+.adresse{
+	/*float: left;*/
+	margin-left: 380px;
+	/*margin-left: px;*/
+}
+.unite_exp{
+	margin-left: 130px;
+	/*padding-left: 130px;*/
+	/*float: left;*/
+	border-bottom: solid 5px white;
+	border-left: solid 1px gray;
+	padding-left: 10px;
+
+
+}
+
+
